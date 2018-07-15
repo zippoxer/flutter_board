@@ -1,8 +1,7 @@
-# web_contractor
+# flutter_board
 
-A new Flutter project.
+A multiplayer drawing app built with Flutter.
 
-## Getting Started
+Clients connect to a server written in Go to transfer messages to other clients.
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+The entire server's source code [here](https://gist.github.com/zippoxer/74efbb0030e1251095b617bb99dcfe02).
